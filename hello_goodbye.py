@@ -2,12 +2,17 @@
 Driver: Melvin Vasquez-Gomez
 Navigator: 
 March 14, 2023
-
 """
 
 def hello():
+    """ Prints hello
+    """
+
     print("hello")
 
 
 def goodbye():
+    """Prints goodbye
+    """
+
     print("goodbye")
